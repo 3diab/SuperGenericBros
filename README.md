@@ -11,10 +11,12 @@ Repositoryt innehåller materialet som behövs för examinationsuppgiften:
 
 1. Ladda ner eller klona repositoryt.
 2. Läs igenom `Examination 2.pdf`.
-3. Öppna projektet `SuperGenericBros` i Unity Hub.
-4. Kontrollera att projektet öppnas utan errors.
-5. Följ instruktionerna i examinationsuppgiften.
-6. Det finns mer assets än vad du kan använda, så fastna inte där. 
+3. Skapa ditt egna git repo, med git lfs & bjud in läraren.
+4. Flytta projektet till ditt nya git repo.
+5. Öppna projektet `SuperGenericBros` i Unity Hub.
+6. Kontrollera att projektet öppnas utan errors.
+7. Följ instruktionerna i examinationsuppgiften.
+8. Det finns mer assets än vad du kan använda, så fastna inte där. 
 
 ## Viktigt
 
