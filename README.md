@@ -14,6 +14,7 @@ Repositoryt innehåller materialet som behövs för examinationsuppgiften:
 3. Öppna projektet `SuperGenericBros` i Unity Hub.
 4. Kontrollera att projektet öppnas utan errors.
 5. Följ instruktionerna i examinationsuppgiften.
+6. Det finns mer assets än vad du kan använda, så fastna inte där. 
 
 ## Viktigt
 
